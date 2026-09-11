@@ -28,7 +28,7 @@
     <revisionDesc>
       <listChange>
         <change>
-          <date>2026-07-22T12:45:58Z</date>
+          <date>2026-09-11T12:11:00Z</date>
           <name>Jörg Kammerhofer</name>
         </change>
       </listChange>
@@ -43,11 +43,14 @@
         <hi style="font-size:11pt" xml:space="preserve">Am 1. Jänner 2023 wurde das von FWF und DFG kofinanzierte Forschungsprojekt </hi>
         <hi style="font-size:11pt" rendition="bold">Die Entstehung des Bundes-Verfassungsgesetzes 1920</hi>
         <hi style="font-size:11pt" xml:space="preserve"> unter der Leitung von Thomas Olechowski (Universität Wien) Jörg Kammerhofer (Universität Freiburg i.Br.) und Alexandra Lenz (ÖAW) gestartet. Das Forschungsprojekt </hi>
-        <hi style="font-size:11pt" rendition="normalweight baseline">hat zum Ziel, alle relevanten Materialien (Entwürfe, Protokolle und sonstige Dokumente) des Entstehungsprozesses der Jahre 1918–1920 des heute noch geltenden österreichische Bundes-Verfassungsgesetz 1920 (B-VG 1920) digital, open access und online zu publizieren.</hi>
+        <hi style="font-size:11pt" rendition="normalweight baseline">hat zum Ziel, alle relevanten Materialien (Entwürfe, Protokolle und sonstige Dokumente) des Entstehungsprozesses der Jahre 1918–1920 des heute noch geltenden österreichische Bundes-Verfassungsgesetz 1920 (B-VG 1920) digital, open access und online zu publizieren. Es wird mi</hi>
+        <hi style="font-size:11pt">t großzügiger Unterstützung seitens und in enger Kooperation mit dem Österreichischen Staatsarchiv sowie der Parlamentsdirektion durchgeführt.</hi>
       </p>
       <p style="text-align: justify;"><hi style="font-size:11pt" xml:space="preserve" rendition="normalweight baseline">Der </hi><ref target="http://./about_bvg.html"><hi style="font-family:IBM Plex Sans;font-size:11pt" rendition="baseline underline color(1155cc)">Entstehungsprozess des B-VG 1920</hi></ref> <hi style="font-size:11pt" xml:space="preserve" rendition="normalweight baseline">ist sowohl für die österreichische Verfassungsgeschichte als auch für die Verfassungsrechtslehre zentral. </hi><hi style="font-size:11pt" rendition="bold baseline">Die Entstehung des Bundes-Verfassungsgesetzes 1920</hi><hi style="font-size:11pt" xml:space="preserve" rendition="normalweight baseline"> will daher einerseits Quellensammlung für die rechts- und verfassungshistorische Forschung, andererseits aber auch von Nutzen für die tägliche rechtsdogmatische und rechtspraktische Arbeit sein.</hi></p>
       <p style="text-align: justify;">
-        <hi style="font-size:11pt" rendition="normalweight baseline">Unsere Publikation soll modernen Standards der digitalen Editorik und der Rechtsgeschichte entsprechen und liefert in mehrerlei Hinsicht eine grundlegende (Neu-)Erfassung dieses Verfassungsentstehungsprozesses. Der gesamte Prozess wird so präziser und umfassender als bisher dargestellt:</hi>
+        <hi style="font-size:11pt" xml:space="preserve" rendition="normalweight baseline">Unsere Publikation soll modernen Standards der digitalen Editorik und der Rechtsgeschichte entsprechen und liefert in mehrerlei Hinsicht eine grundlegende (Neu-)Erfassung </hi>
+        <hi style="font-size:11pt">d</hi>
+        <hi style="font-size:11pt" rendition="normalweight baseline">es Entstehungsprozesses dieser Verfassung. Der gesamte Prozess wird so präziser und umfassender als bisher dargestellt:</hi>
       </p>
       <list rendition="bulleted">
         <item>
@@ -73,7 +76,7 @@
           <hi style="font-size:11pt" rendition="normalweight baseline">Zunächst werden die Faksimiles als Bilddateien samt korrespondierenden, aber nicht korrigierten Textdateien eingestellt;</hi>
         </item>
         <item>
-          <hi style="font-size:11pt" rendition="normalweight baseline">daraufhin erfolgt die Textkorrektur sowie der Ausweis von Textvarianten bzw -genese ;</hi>
+          <hi style="font-size:11pt" rendition="normalweight baseline">daraufhin erfolgt die Textkorrektur sowie der Ausweis von Textvarianten bzw -genese;</hi>
         </item>
         <item>
           <hi style="font-size:11pt" rendition="normalweight baseline">schließlich wird jedem Dokument ein Editorischer Bericht angefügt.</hi>
